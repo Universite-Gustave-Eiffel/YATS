@@ -1,0 +1,70 @@
+% Exemple de CV utilisant la classe moderncv
+% Style classic en bleu
+% Article complet : http://blog.madrzejewski.com/creer-cv-elegant-latex-moderncv/
+
+\documentclass[11pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}                
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
+% Largeur de la colonne pour les dates
+\setlength{\hintscolumnwidth}{2.5cm}
+
+\firstname{Alexis}
+\familyname{Madrzejewski}
+\title{Étudiant en réseaux et télécommunications}              
+\address{5 rue des jacobins}{15100 Saint-Flour}    
+\email{alexis@madrzejewski.com}                      
+\homepage{www.madrzejewski.com}
+\mobile{06 27 62 55 41} 
+\extrainfo{21 ans -- Permis B}
+\begin{document}
+\maketitle
+
+\section{Formations}
+\cventry{2012 -- 2013}{Licence Professionnelle}{IUT Clermont-Ferrand (63)}{}{}{Spécialité Administration et Sécurité des Réseaux}
+\cventry{2010 -- 2012}{Diplôme universitaire de technologie d'informatique}{IUT Clermont-Ferrand}{}{}{Spécialité systèmes embarqués}
+\cventry{2007 -- 2010}{Baccalauréat}{Saint-Flour (15)}{}{}{Série scientifique, spécialité mathématique}
+
+\section{Réalisations techniques}
+\cventry{Août 2012\\à Aujourd'hui}{Auto-entrepreneur}{}{}{}{Création d'une entreprise de conseil en systèmes et logiciels informatiques. 
+Configuration de serveurs, infogérance et création de site web.\newline{}}
+
+\cventry{Avril 2012\\à Octobre 2012}{Administrateur systèmes}{Vesalis}{Clermont-Ferrand}{France}{
+\begin{itemize}%
+\item Mise en place d'une solution de répartition de charge sur un serveur IBM Blade Center (~6 serveurs),
+\item Proposition d'une architecture de haute disponibilité (HA),
+\item Changement d'hébergeur, réinstallation de toutes les applications et services sur un serveur Windows Server 2008 R2 
+(configuration d'un SVN, serveur web, base de données, FTP),
+\item Adaptation du code des applications de la société pour le rendre compatible Linux.\newline{}
+\end{itemize}}
+
+\cventry{Juin 2011\\à Aujourd'hui}{Administration d'un serveur dédié}{}{}{}{Installation, configuration et 
+maintenance d'un serveur dédié tournant sous Debian avec Apache pour héberger mes sites internet.\newline{}}
+
+\cventry{Juin 2009\\à Aujourd'hui}{Création de Tutoriels-video.fr}{}{}{}{Ce site propose des formations vidéos gratuites en informatique.
+Il reçoit 900 visiteurs uniques par jour (50 000 pages vues/mois)\newline{}}
+
+\section{Compétences en informatique}
+\cvitem{Langages}{(X)HTML, PHP, CSS, PL/SQL, C/C++, Java, Bash}
+\cvitem{Analyse}{Merise, UML, Design Patterns}
+\cvitem{Base de données}{MySQL, Oracle}
+\cvitem{CMS}{Wordpress, Symfony2 (des notions sur ce Framework)}
+\cvitem{Systèmes}{Windows XP/Seven/Server 2003/Server 2008, Linux (Debian)}
+\cvitem{Administration}{Apache2, BIND, Postfix, Fail2ban, Proxmox (openVZ), Iptables,Nagios}
+\cvitem{Réseaux}{Réseaux WAN, Protocole IP, VLAN, Téléphonie IP}
+\cvitem{Logiciels}{Microsoft office, Open Office, Adobe Photoshop}
+\cvlanguage{Anglais}{lu, écrit, parlé -- Toeic 965 / 990}{}
+
+%\cvcomputer{Langages}{(X)HTML, PHP, CSS, PL/SQL, C/C++, Java, Bash}{}{}
+%\cvcomputer{Base de données}{MySQL, Oracle}{CMS}{Wordpress, Symfony2 (notions)}
+%\cvcomputer{Analyse}{Merise, UML, Design Patterns}{}{}
+%\cvcomputer{Systèmes}{Windows XP/Seven/Server 2003/Server 2008, Linux (Debian)}{}{}
+%\cvcomputer{Administration}{Apache2, BIND, Postfix, Fail2ban, Proxmox (openVZ), Iptables,Nagios}{}{}
+
+\section{Centres d'intérêt}
+\cvitem{Cinéma}{Films et séries en version originale - Quentin Tarantino, Martin Scorsese, Guy Ritchie}
+\cvitem{Entreprenariat}{Passive Income, The 4 hour work week}
+%\cvitem{Plongée}{Diplôme de niveau 1}
+
+\end{document}
+

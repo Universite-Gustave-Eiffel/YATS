@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}
+
+\bibitem{bratman1987intention}
+M.~Bratman.
+\newblock {\em Intention, Plans, and Practical Reason}.
+\newblock Center for the Study of Language and Information - Lecture Notes
+  Series. C S L I Publications/Center for the Study of Language \& Information,
+  1987.
+
+\bibitem{AICPub540:1988}
+Michael~E. Bratman, David~J. Israel, and Martha~E. Pollack.
+\newblock Plans and resource-bounded practical reasoning.
+\newblock Technical Report 425, AI Center, SRI International, 333 Ravenswood
+  Ave., Menlo Park, CA 94025, Sep 1988.
+\newblock Revised version.
+
+\bibitem{Dorigo:2000:AAS:348599.348601}
+Marco Dorigo, Eric Bonabeau, and Guy Theraulaz.
+\newblock Ant algorithms and stigmergy.
+\newblock {\em Future Gener. Comput. Syst.}, 16(9):851--871, June 2000.
+
+\bibitem{Draa2001}
+Chaib~B. Draa, I.~Jarras, and B.~Moulin.
+\newblock {Sytemes multi-agents: principes generaux et application}.
+\newblock In Jean~P. Briot and Yves Demazeau, editors, {\em Principes et
+  architecture des syst\`{e}mes multi-agents}, chapter~1. Herm\`{e}s-Lavoisier,
+  2001.
+
+\bibitem{Fishwick94computersimulation:}
+Paul Fishwick.
+\newblock Computer simulation: Growth through extension.
+\newblock In {\em Society for Computer Simulation}, pages 3--20, 1994.
+
+\bibitem{jennings1998agent}
+N.~Jennings, N.R. Jennings, and M.J. Wooldridge.
+\newblock {\em Agent Technology: Foundations, Applications, and Markets}.
+\newblock Springer, 1998.
+
+\bibitem{Norman:1999:ACD:301153.301168}
+Donald~A. Norman.
+\newblock Affordance, conventions, and design.
+\newblock {\em interactions}, 6(3):38--43, May 1999.
+
+\bibitem{pitti:hal-00763867}
+Alexandre Pitti and Rolf Pfeifer.
+\newblock {\em {La r{\'e}volution de l'intelligence du corps}}.
+\newblock Manuella Editions, November 2012.
+
+\bibitem{Platon2005}
+Eric Platon, Nicolas Sabouret, and Shinichi Honiden.
+\newblock Tag interactions in multi-agent systems: Environment support.
+\newblock 2005.
+
+\bibitem{Shannon:1977:SMM:1102766.1102770}
+Robert~E. Shannon.
+\newblock Simulation modeling and methodology.
+\newblock {\em SIGSIM Simul. Dig.}, 8(3):33--38, April 1977.
+
+\bibitem{EUMAS10_Ketenci}
+Jean Michel~Auberlet Utku Gorkem~Ketenci, Roland~Bremond and Emmanuelle
+  Grislin.
+\newblock Bounded active perception.
+\newblock {\em EUMAS}, 10, 2010.
+
+\bibitem{conf/e4mas/WeynsH06}
+Danny Weyns and Tom Holvoet.
+\newblock A reference architecture for situated multiagent systems.
+\newblock In Danny Weyns, H.~Van~Dyke Parunak, and Fabien Michel, editors, {\em
+  E4MAS}, volume 4389 of {\em Lecture Notes in Computer Science}, pages 1--40.
+  Springer, 2006.
+
+\bibitem{env-jaamas14}
+Danny Weyns, Andrea Omicini, and James~J. Odell.
+\newblock Environment as a first-class abstraction in multi-agent systems.
+\newblock {\em Autonomous Agents and Multi-Agent Systems}, 14(1):5--30,
+  February 2007.
+\newblock Special Issue on Environments for Multi-agent Systems.
+
+\bibitem{Weyns05environmentfor}
+Danny Weyns, H.~Van, H.~Van~Dyke Parunak, Fabien Michel, Tom Holvoet, and
+  Jacques Ferber.
+\newblock Environment for for multiagent systems state-of-the-art and research
+  challenges.
+\newblock pages 1--47. Springer, 2005.
+
+\end{thebibliography}

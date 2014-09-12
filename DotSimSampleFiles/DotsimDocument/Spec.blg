@@ -1,0 +1,9 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Spec.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+A bad cross reference---entry "conf/e4mas/WeynsH06"
+refers to entry "conf/e4mas/2006", which doesn't exist
+Warning--I didn't find a database entry for "conf/e4mas/2006"
+Warning--empty journal in Platon2005
+Warning--empty booktitle in Weyns05environmentfor
+(There was 1 error message)
